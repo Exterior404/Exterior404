@@ -21,17 +21,16 @@ Here are some ideas to get you started:
 
 <hr>
 
-#### Languages / Frameworks / Tools:  
+### Languages / Frameworks / Tools:
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&show_owner=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Exterior404&repo=github-readme-stats)](https://github.com/Exterior404/github-readme-stats)
-
-<a href="https://github.com/Exterior404/Kokoro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Exterior404&repo=github-readme-stats" />
+<a href="https://unity.com" target="_blank"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="Unity" width="110" height="40"/> 
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exterior404)
+<a href="https://visualstudio.microsoft.com/zh-hant/" target="_blank"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" alt="VS2017" width="40" height="40"/> 
+</a>
 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exterior404)
