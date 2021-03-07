@@ -16,4 +16,4 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" alt="VS2017" width="40" height="40"/> 
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exterior404&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exterior404&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
