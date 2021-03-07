@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 #### Languages / Frameworks / Tools:  
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&show_owner=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Exterior404&repo=github-readme-stats)](https://github.com/Exterior404/github-readme-stats)
