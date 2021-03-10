@@ -1,7 +1,7 @@
 ### 私は, 夜羽栻
 ビデオゲームデザイナーです
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Exterior404&show_icons=true&theme=buefy&locale=jp&hide=issues,contribs)](https://www.plurk.com/Exterior404)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Exterior404&show_icons=true&theme=buefy&locale=zh&hide=issues,contribs)](https://www.plurk.com/Exterior404)
 
 <hr>
 
