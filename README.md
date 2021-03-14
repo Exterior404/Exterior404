@@ -19,3 +19,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Exterior404&theme=buefy&repo=Kokoro)](https://github.com/Exterior404/Kokoro)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exterior404&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+<script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
+  new Crate({
+    server: '701042716238413906',
+    channel: '701057213741137950'
+  })
+</script>
