@@ -1,13 +1,18 @@
-#### Code name ―― Exterior404 
-獨自一人在探索著可能性。主力於全端網頁技術，興趣是遊戲開發。
+<div align="center">
+<h2 align="center">Code name ― Exterior404</h2>
+<p align="center">獨自一人在探索著可能性。</p>
+<p align="center">主力於全端網頁技術，興趣是遊戲開發。</p>
+</div>
+
+<div align="center">
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Exterior404&show_icons=true&theme=buefy&hide=issues,contribs)](https://discord.gg/WwkxsusT7p)
 
-<hr>
+</div>
 
-#### Languages / Frameworks / Tools:
+<h3 align="center">Languages / Frameworks / Tools:</h3>
 
-<div>  
+<div align="center">  
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
   </a>
@@ -32,25 +37,29 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
   </a>
 
-  <a href="https://code.visualstudio.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40" />
-  </a>
-  
-  <a href="https://docs.microsoft.com/zh-tw/dotnet/csharp/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="Csharp" width="40" height="40"/> 
-  </a>
-
   <a href="https://unity.com" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="Unity" width="110" height="40"/> 
   </a>
 
+  <a href="https://docs.microsoft.com/zh-tw/dotnet/csharp/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="Csharp" width="40" height="40"/>
+  </a>
+  
   <a href="https://visualstudio.microsoft.com/zh-hant/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" alt="VS2017" width="40" height="40"/> 
   </a>  
+
+  <a href="https://code.visualstudio.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40" />
+  </a>
 </div>
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Exterior404&theme=buefy&repo=Kokoro)](https://github.com/Exterior404/Kokoro)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exterior404&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+  <div align="center">
+    <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Exterior404?theme=moebooru"></a>
+  </div>
 -->
