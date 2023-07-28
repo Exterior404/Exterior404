@@ -1,7 +1,6 @@
 <div align="center">
 <h2 align="center">Code name ― Exterior404</h2>
 <p align="center">獨自一人在探索著可能性。</p>
-<p align="center">主力於全端網頁技術，興趣是遊戲開發。</p>
 </div>
 
 <div align="center">
